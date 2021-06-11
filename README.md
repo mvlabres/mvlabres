@@ -1,5 +1,5 @@
-Hello, my name is Marcos Vinicius Labres de Oliveira
-Here you can collaborate with salesforce resurces and others interesting things...
+Hello, my name is Marcos Vinicius Labres de Oliveira and
+here you can collaborate with salesforce resurces and others interesting things...
 
 <!---
 mvlabres/mvlabres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
