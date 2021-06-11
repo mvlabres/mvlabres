@@ -1,4 +1,4 @@
-Hello, my name is Marcos Vinicius Labres de Oliveira and
+Hi, my name is Marcos Vinicius Labres de Oliveira and
 here you can collaborate with salesforce resources and others interesting things...
 
 <!---
